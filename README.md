@@ -15,4 +15,5 @@ buatlah sebuah fungsi 'checkCats', yang menerima 2 array usia kucing ('CatsTuti'
 
 Data uji:
 Data 1: Data Tuti [3, 5, 2, 12, 7], Data Nining [4, 1, 15, 8, 3]
+
 Data 2: Data Tuti [9, 16, 6, 8, 3], Data Nining [10, 5, 6, 1,4]
